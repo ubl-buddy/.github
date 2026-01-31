@@ -20,7 +20,6 @@ UBL Buddy is a native desktop and mobile app that makes it effortless to open, v
 ## Links
 
 - **Website:** [ublbuddy.app](https://ublbuddy.app)
-- **Download:** [App Store](https://apps.apple.com/app/ubl-buddy/id6740037829)
 
 ---
 
