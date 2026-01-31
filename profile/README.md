@@ -25,5 +25,3 @@ UBL Buddy is a native desktop and mobile app that makes it effortless to open, v
 ---
 
 Used by 1,000+ freelancers and business owners across Europe.
-
-*Built with care in Belgium by [KipKap](https://kipkap.be)*
